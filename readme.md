@@ -4,7 +4,7 @@
 3. Physical hypertext
 4. Twine
 5. Cut up poetry
-6. Tracery bot
+6. [Tracery bot](https://botsin.space/@slucky)
 7. Scalar
 8. P5 Poetics
 9. [Bitsy](https://sluckylib.github.io/dhsi2023/classroom-game.html)
