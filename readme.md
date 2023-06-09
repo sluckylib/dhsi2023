@@ -7,6 +7,6 @@
 6. [Tracery bot](https://botsin.space/@slucky)
 7. Scalar
 8. P5 Poetics
-9. [Bitsy](https://sluckylib.github.io/dhsi2023/classroom-game.html)
+9. [Bitsy](https://sluckylib.github.io/dhsi2023/whatIsYourCraftGame.html)
 10. Repository
 
