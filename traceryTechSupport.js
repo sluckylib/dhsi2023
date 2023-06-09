@@ -37,7 +37,7 @@ function mouseClicked() {
 // See the tutorial here: http://www.crystalcodepalace.com/traceryTut.html
 var grammarSource = {
 	"origin": [
-		"#suggestion# #action# #thing# to #move#.\n If that #adverb# #fix# you could #alsotry# #action# #thing#\n or I could #supportaction# #thing# to #adverb# #resaction# #resobject#."
+		"#suggestion# #action# #thing# to #move#.\n If that doesn't work, you could #alsotry# #action# #thing#\n or I could #supportaction# #thing# to #resaction# #resobject#."
 	],
 	"suggestion": [
 		"Have you tried",
@@ -47,7 +47,6 @@ var grammarSource = {
 	],
 	"action": [
 		"rebooting",
-		"taking",
 		"cycling",
 		"googling",
 		"submitting",
@@ -55,8 +54,7 @@ var grammarSource = {
 		"meditating on",
 		"power cycling",
 		"adjusting",
-		"reinstalling",
-		"waiting for"
+		"reinstalling"
 	],
 	"thing": [
 		"your ticket",
@@ -65,23 +63,17 @@ var grammarSource = {
 		"your attitude",
 		"the hard drive",
 		"all of your files",
-		"your expectations"
+		"your expectations",
+		"all of your work"
 	],
 	"move": [
 		"the most recent version",
 		"a more stable version",
 		"the original format",
-		"the admin approvals queue"
-	],
-	"adverb": [
-		"eventually",
-		"catastrophically",
-		"successfully"
-	],
-	"fix": [
-		"makes you happy",
-		"fixes this problem",
-		"resolves your issue"
+		"the admin approvals queue",
+		"a redundant copy",
+		"a new repository",
+		"a shared drive"
 	],
 	"alsotry": [
 		"also try",
@@ -95,20 +87,21 @@ var grammarSource = {
 		"escalate",
 		"transfer",
 		"take control of",
-		"ignore",
-		"forget about"
+		"disregard",
+		"overlook"
 	],
 	"resaction": [
 		"close",
 		"timeout",
 		"pass off",
-		"resolve"
+		"resolve",
+		"forget about",
+		"indefinitely pause"
 	],
 	"resobject": [
 		"this ticket",
 		"your request",
-		"your problem",
-		""
+		"your problem"
 	]
 };
 
